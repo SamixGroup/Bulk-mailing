@@ -1,0 +1,25 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Button4: TButton
+    Position.Y = 607.000000000000000000
+    Size.Width = 310.000000000000000000
+  end
+  inherited Memo1: TMemo
+    Position.Y = 176.000000000000000000
+    Size.Width = 376.000000000000000000
+    Size.Height = 265.000000000000000000
+    Viewport.Width = 376.000000000000000000
+    Viewport.Height = 265.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.Y = 512.000000000000000000
+    Size.Width = 286.000000000000000000
+    Size.Height = 73.000000000000000000
+  end
+  inherited Label2: TLabel
+    Size.Width = 347.000000000000000000
+    Size.Height = 73.000000000000000000
+  end
+end
